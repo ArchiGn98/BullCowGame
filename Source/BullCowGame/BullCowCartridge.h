@@ -6,6 +6,7 @@
 #include "Console/Cartridge.h"
 #include "BullCowCartridge.generated.h"
 
+
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 {
@@ -14,8 +15,17 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	public:
 	virtual void BeginPlay() override;
 	virtual void OnInput(const FString& Input) override;
+	void InitGame();
 
 	// Your declarations go below!
 	private:
-	
+		FString HiddenWord;
+		int32 HiddenWordLength;
+		int32 Lives;
+		bool bGameFinished;
+
+		void EndGame();
+		void ProcessGuess(const FString& Input);
+		bool IsIsogram(const FString& Input) const;
+		void CheckGuessFormat(const FString& Input) const;
 };
