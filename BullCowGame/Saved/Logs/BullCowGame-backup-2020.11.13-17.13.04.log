@@ -1,0 +1,1351 @@
+﻿Log file open, 11/13/20 17:43:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BullCowGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083113
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:612][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.13-15.43.49:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.13-15.43.49:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.13-15.43.49:622][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.13-15.43.49:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.13-15.43.49:625][  0]LogHAL: Display: Platform has ~ 32 GB [34293186560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.13-15.43.49:625][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.13-15.43.49:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:625][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.13-15.43.49:625][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.13-15.43.49:625][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:625][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.13-15.43.49:625][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.13-15.43.49:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Scalability.ini]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.13-15.43.49:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Config/Windows/Engine.ini]
+[2020.11.13-15.43.49:627][  0]LogInit: Computer: DESKTOP-C5IO383
+[2020.11.13-15.43.49:627][  0]LogInit: User: artig
+[2020.11.13-15.43.49:627][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.11.13-15.43.49:627][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.13-15.43.49:627][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.11.13-15.43.49:627][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.13-15.43.49:627][  0]LogMemory: Process Physical Memory: 109.72 MB used, 109.73 MB peak
+[2020.11.13-15.43.49:627][  0]LogMemory: Process Virtual Memory: 102.52 MB used, 102.52 MB peak
+[2020.11.13-15.43.49:627][  0]LogMemory: Physical Memory: 11758.07 MB used,  20946.46 MB free, 32704.53 MB total
+[2020.11.13-15.43.49:627][  0]LogMemory: Virtual Memory: 5179.98 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.11.13-15.43.49:630][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.13-15.43.49:646][  0]LogInit: Using OS detected language (ru-RU).
+[2020.11.13-15.43.49:646][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.11.13-15.43.49:647][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.11.13-15.43.49:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.11.13-15.43.49:648][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.11.13-15.43.49:648][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.11.13-15.43.49:648][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.11.13-15.43.49:648][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.11.13-15.43.49:648][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.11.13-15.43.49:649][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.11.13-15.43.49:650][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.13-15.43.49:689][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.13-15.43.49:689][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.13-15.43.49:870][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.13-15.43.49:870][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.13-15.43.49:870][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.13-15.43.49:870][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.13-15.43.49:895][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2020.11.13-15.43.49:895][  0]LogD3D11RHI:       8137/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.11.13-15.43.49:898][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.13-15.43.49:898][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.13-15.43.49:898][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.13-15.43.49:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.13-15.43.49:908][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.11.13-15.43.49:908][  0]LogWindows: EnumDisplayDevices:
+[2020.11.13-15.43.49:908][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2020.11.13-15.43.49:908][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2020.11.13-15.43.49:909][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:909][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:909][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:910][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:910][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:910][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.11.13-15.43.49:910][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.11.13-15.43.49:910][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2020.11.13-15.43.49:910][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.20 (internal:26.20.12028.2, unified:26.20.12028.2)
+[2020.11.13-15.43.49:911][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2020.11.13-15.43.49:911][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2020.11.13-15.43.49:967][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.11.13-15.43.49:967][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.13-15.43.49:967][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2020.11.13-15.43.49:979][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.11.13-15.43.50:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.13-15.43.50:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.13-15.43.50:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.13-15.43.50:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.13-15.43.50:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.13-15.43.50:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.13-15.43.50:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.13-15.43.50:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.13-15.43.50:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.13-15.43.50:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.13-15.43.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.13-15.43.50:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.13-15.43.50:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.13-15.43.50:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.13-15.43.50:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.13-15.43.50:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.13-15.43.50:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.13-15.43.50:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.13-15.43.50:431][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.13-15.43.50:434][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.13-15.43.50:462][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Intermediate/Shaders/WorkingDirectory/20192/).
+[2020.11.13-15.43.50:463][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/artig/AppData/Local/Temp/UnrealShaderWorkingDir/25C9B8454E8C4C23DD1CEFB8F6D51F62/'.
+[2020.11.13-15.43.50:463][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.13-15.43.50:463][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.13-15.43.50:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.13-15.43.51:164][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/artig/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/artig/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.13-15.43.51:212][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.13-15.43.51:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.13-15.43.51:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.13-15.43.51:222][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.13-15.43.51:223][  0]LogDerivedDataCache: Using Local data cache path C:/Users/artig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.13-15.43.51:224][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.13-15.43.51:224][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.13-15.43.51:249][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.13-15.43.51:252][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.13-15.43.51:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.13-15.43.51:309][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.11.13-15.43.51:587][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.13-15.43.51:738][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.13-15.43.51:738][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.13-15.43.51:738][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.13-15.43.51:738][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.13-15.43.51:738][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.13-15.43.51:755][  0]LogNetVersion: BullCowGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1680031705)
+[2020.11.13-15.43.52:801][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044740 seconds
+[2020.11.13-15.43.52:809][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.11.13-15.43.52:809][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.11.13-15.43.52:809][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.13-15.43.53:221][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.13-15.43.53:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.13-15.43.53:299][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.53:299][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.53:300][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.53:301][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.53:302][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.53:392][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.13-15.43.53:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.13-15.43.53:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.13-15.43.53:489][  0]LogOcInput: OculusInput pre-init called
+[2020.11.13-15.43.53:498][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.13-15.43.53:498][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.13-15.43.53:566][  0]LogEngine: Initializing Engine...
+[2020.11.13-15.43.53:567][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.13-15.43.53:568][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.13-15.43.53:902][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.13-15.43.53:908][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-15.43.53:919][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-15.43.53:919][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-15.43.53:920][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-15.43.53:920][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: Channel Order:
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-15.43.53:953][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-15.43.53:971][  0]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-15.43.53:975][  0]LogInit: FAudioDevice initialized.
+[2020.11.13-15.43.53:975][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.13-15.43.54:028][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/artig/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.13-15.43.54:028][  0]LogInit: Texture streaming: Enabled
+[2020.11.13-15.43.54:041][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.13-15.43.54:041][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.13-15.43.54:043][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.13-15.43.54:076][  0]LogInit: Transaction tracking system initialized
+[2020.11.13-15.43.54:086][  0]BlueprintLog: New page: Editor Load
+[2020.11.13-15.43.54:116][  0]LocalizationService: Localization service is disabled
+[2020.11.13-15.43.54:393][  0]LogFileCache: Scanning file cache for directory 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/' took 0.00s
+[2020.11.13-15.43.54:393][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.13-15.43.54:393][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.13-15.43.55:050][  0]SourceControl: Source control is disabled
+[2020.11.13-15.43.55:167][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.13-15.44.09:175][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.11.13-15.44.09:184][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-15.44.09:186][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-15.44.11:736][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.11.13-15.44.11:746][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-15.44.11:749][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-15.44.11:794][  0]Cmd: MAP LOAD FILE="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.13-15.44.11:794][  0]LightingResults: New page: Lighting Build
+[2020.11.13-15.44.11:795][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-15.44.11:795][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-15.44.11:795][  0]MapCheck: New page: Map Check
+[2020.11.13-15.44.11:795][  0]LightingResults: New page: Lighting Build
+[2020.11.13-15.44.11:833][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.11.13-15.44.12:038][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:039][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:425][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:425][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:427][  0]LogLinker: Warning: Failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:427][  0]LogLinker: Warning: Failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:427][  0]LogLinker: Warning: Failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:427][  0]LogLinker: Warning: Failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:459][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:459][  0]LoadErrors: Failed to load /Game/Levels/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2020.11.13-15.44.12:459][  0]LogLinker: Warning: While loading 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Levels/Level1.umap' failed to load '/Game/Levels/Level1_BuiltData': Can't find file.
+[2020.11.13-15.44.12:459][  0]LoadErrors: Failed to load /Game/Levels/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2020.11.13-15.44.12:825][  0]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-15.44.12:880][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.13-15.44.12:941][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.11.13-15.44.12:943][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.13-15.44.12:943][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2020.11.13-15.44.12:943][  0]LogFileHelpers: Loading map 'Level1' took 1.150
+[2020.11.13-15.44.13:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-15.44.13:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-15.44.13:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-15.44.13:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-15.44.13:072][  0]LogCollectionManager: Loaded 0 collections in 0.002032 seconds
+[2020.11.13-15.44.13:096][  0]LogFileCache: Scanning file cache for directory 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Saved/Collections/' took 0.00s
+[2020.11.13-15.44.13:096][  0]LogFileCache: Scanning file cache for directory 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Developers/artig/Collections/' took 0.00s
+[2020.11.13-15.44.13:096][  0]LogFileCache: Scanning file cache for directory 'D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/Content/Collections/' took 0.00s
+[2020.11.13-15.44.13:096][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3019 classes and 720 folders.
+[2020.11.13-15.44.13:102][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.13-15.44.13:236][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.13-15.44.13:249][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.11.13-15.44.13:833][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.13-15.44.13:837][  0]LogSlate: Took 0.001351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.13-15.44.13:911][  0]LogRenderer: Reallocating scene render targets to support 1724x900 Format 10 NumSamples 1 (Frame:1).
+[2020.11.13-15.44.14:057][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.13-15.44.14:058][  0]LogLoad: (Engine Initialization) Total time: 26.23 seconds
+[2020.11.13-15.44.14:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.13-15.44.14:106][  0]LogAssetRegistry: Asset discovery search completed in 22.7980 seconds
+[2020.11.13-15.44.14:109][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.11.13-15.44.14:119][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.13-15.44.20:582][530]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.11.13-15.44.20:620][530]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.11.13-16.07.20:569][601]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.07.20:570][601]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.07.22:331][733]Candidate modules for hot reload:
+[2020.11.13-16.07.22:331][733]  BullCowGame
+[2020.11.13-16.07.22:331][733]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,7276 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.07.22:334][733]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.08.41:787][878]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.08.41:787][878]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:08:53
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Creating makefile for BullCowGameEditor (no existing makefile)
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:   [1/5] BullCowCartridge.cpp
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:   [2/5] Terminal.cpp
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:   [3/5] UE4Editor-BullCowGame-7276.lib
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-7276.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-7276.exp
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:   [4/5] UE4Editor-BullCowGame-7276.dll
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-7276.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-7276.suppressed.exp
+[2020.11.13-16.08.53:567][936]CompilerResultsLog:   [5/5] BullCowGameEditor.target
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Total time in Parallel executor: 88,93 seconds
+[2020.11.13-16.08.53:567][936]CompilerResultsLog: Total execution time: 91,01 seconds
+[2020.11.13-16.08.53:568][936]LogMainFrame: MainFrame: Module compiling took 91.242 seconds
+[2020.11.13-16.08.53:605][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.11.13-16.08.53:620][936]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.08.53:622][936]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.08.53:690][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.11.13-16.08.53:704][936]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.08.53:704][936]Display: HotReload took 91.4s.
+[2020.11.13-16.08.58:088][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-16.08.58:096][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.08.58:096][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-16.08.58:096][ 95]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 20:08:58)
+[2020.11.13-16.08.58:097][ 95]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.13-16.08.58:098][ 95]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.13-16.08.58:098][ 95]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.08.58:227][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129216s)
+[2020.11.13-16.08.58:228][ 95]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-16.08.58:228][ 95]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.11.13-16.08.58:228][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.130265s)
+[2020.11.13-16.08.58:264][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-16.08.58:264][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-16.08.58:264][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-16.08.58:265][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-16.08.58:265][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: Channel Order:
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-16.08.58:293][ 95]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-16.08.58:304][ 95]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.08.58:305][ 95]LogInit: FAudioDevice initialized.
+[2020.11.13-16.08.58:315][ 95]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-16.08.58:319][ 95]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-18.08.58
+[2020.11.13-16.08.58:320][ 95]LogWorld: Bringing up level for play took: 0.003779
+[2020.11.13-16.08.58:320][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.11.13-16.08.58:351][ 95]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.11.13-16.08.58:352][ 95]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,672
+[2020.11.13-16.08.58:353][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.09.00:538][342]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.09.00:538][342]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.09.00:538][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.09.00:538][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.09.00:538][342]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.09.00:538][342]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.09.00:538][342]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-16.09.00:539][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.09.00:554][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-16.09.00:554][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.09.00:557][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.09.00:593][342]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.09.00:595][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.09.00:599][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.11.13-16.09.00:644][344]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.13-16.09.16:842][483]LogSlate: Took 0.001271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.13-16.11.06:278][451]LogSlate: Took 0.002977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.13-16.19.37:595][495]Candidate modules for hot reload:
+[2020.11.13-16.19.37:595][495]  BullCowGame
+[2020.11.13-16.19.37:595][495]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,4669 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.19.37:598][495]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:19:47
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:   Running UnrealHeaderTool "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\BullCowGame.uproject" "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 7,6508484 seconds
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:   [1/3] UE4Editor-BullCowGame-4669.lib
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4669.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4669.exp
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:   [2/3] UE4Editor-BullCowGame-4669.dll
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4669.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4669.suppressed.exp
+[2020.11.13-16.19.47:096][360]CompilerResultsLog:   [3/3] BullCowGameEditor.target
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Total time in Parallel executor: 0,83 seconds
+[2020.11.13-16.19.47:096][360]CompilerResultsLog: Total execution time: 9,41 seconds
+[2020.11.13-16.19.47:096][360]LogMainFrame: MainFrame: Module compiling took 9.507 seconds
+[2020.11.13-16.19.47:131][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.13-16.19.47:140][360]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.19.47:143][360]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.19.47:208][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.13-16.19.47:222][360]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.19.47:222][360]Display: HotReload took  9.6s.
+[2020.11.13-16.20.22:150][993]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.20.22:150][993]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.20.41:893][733]Candidate modules for hot reload:
+[2020.11.13-16.20.41:893][733]  BullCowGame
+[2020.11.13-16.20.41:894][733]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,4236 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.20.41:896][733]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:20:44
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.20.44:196][917]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-4236.lib
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4236.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4236.exp
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-4236.dll
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4236.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-4236.suppressed.exp
+[2020.11.13-16.20.44:197][917]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: Total time in Parallel executor: 1,34 seconds
+[2020.11.13-16.20.44:197][917]CompilerResultsLog: Total execution time: 2,22 seconds
+[2020.11.13-16.20.44:197][917]LogMainFrame: MainFrame: Module compiling took 2.309 seconds
+[2020.11.13-16.20.44:233][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.13-16.20.44:247][917]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.20.44:251][917]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.20.44:318][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.11.13-16.20.44:332][917]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.20.44:332][917]Display: HotReload took  2.4s.
+[2020.11.13-16.20.54:493][142]Candidate modules for hot reload:
+[2020.11.13-16.20.54:494][142]  BullCowGame
+[2020.11.13-16.20.54:494][142]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,537 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.20.54:496][142]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:20:56
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-0537.lib
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-0537.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-0537.exp
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-0537.dll
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-0537.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-0537.suppressed.exp
+[2020.11.13-16.20.56:830][331]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Total time in Parallel executor: 1,34 seconds
+[2020.11.13-16.20.56:830][331]CompilerResultsLog: Total execution time: 2,24 seconds
+[2020.11.13-16.20.56:831][331]LogMainFrame: MainFrame: Module compiling took 2.343 seconds
+[2020.11.13-16.20.56:864][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.13-16.20.56:877][331]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.20.56:877][331]Display: HotReload took  2.4s.
+[2020.11.13-16.29.59:593][545]Candidate modules for hot reload:
+[2020.11.13-16.29.59:593][545]  BullCowGame
+[2020.11.13-16.29.59:593][545]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,6677 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.29.59:596][545]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.30.07:696][264]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:30:07
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:   Running UnrealHeaderTool "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\BullCowGame.uproject" "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 6,26602 seconds
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:   [1/3] UE4Editor-BullCowGame-6677.lib
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-6677.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-6677.exp
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:   [2/3] UE4Editor-BullCowGame-6677.dll
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-6677.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-6677.suppressed.exp
+[2020.11.13-16.30.07:697][264]CompilerResultsLog:   [3/3] BullCowGameEditor.target
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Total time in Parallel executor: 0,84 seconds
+[2020.11.13-16.30.07:697][264]CompilerResultsLog: Total execution time: 8,01 seconds
+[2020.11.13-16.30.07:697][264]LogMainFrame: MainFrame: Module compiling took 8.110 seconds
+[2020.11.13-16.30.07:732][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.13-16.30.07:742][264]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.30.07:746][264]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.30.07:812][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.11.13-16.30.07:826][264]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.30.07:826][264]Display: HotReload took  8.2s.
+[2020.11.13-16.30.36:841][575]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-16.30.36:848][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.30.36:848][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-16.30.36:848][575]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 20:30:36)
+[2020.11.13-16.30.36:848][575]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.30.36:972][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126358s)
+[2020.11.13-16.30.36:972][575]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-16.30.36:972][575]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2020.11.13-16.30.36:972][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.127631s)
+[2020.11.13-16.30.37:011][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-16.30.37:011][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-16.30.37:011][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-16.30.37:012][575]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-16.30.37:012][575]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: Channel Order:
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-16.30.37:044][575]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-16.30.37:056][575]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.30.37:057][575]LogInit: FAudioDevice initialized.
+[2020.11.13-16.30.37:066][575]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-16.30.37:069][575]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-18.30.37
+[2020.11.13-16.30.37:069][575]LogWorld: Bringing up level for play took: 0.002776
+[2020.11.13-16.30.37:069][575]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.11.13-16.30.37:071][575]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,047
+[2020.11.13-16.30.37:071][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.30.47:661][657]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.30.47:661][657]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.30.47:661][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.30.47:661][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.30.47:661][657]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.30.47:661][657]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.30.47:661][657]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-16.30.47:662][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.30.47:671][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-16.30.47:671][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.30.47:674][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.30.47:708][657]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.30.47:710][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.30.47:713][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.13-16.30.47:766][660]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.11.13-16.30.48:466][727]Candidate modules for hot reload:
+[2020.11.13-16.30.48:466][727]  BullCowGame
+[2020.11.13-16.30.48:466][727]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,2907 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.30.48:469][727]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:30:56
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.11.13-16.30.56:311][425]CompilerResultsLog:   Running UnrealHeaderTool "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\BullCowGame.uproject" "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 6,0096829 seconds
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.30.56:311][425]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.11.13-16.30.56:311][425]CompilerResultsLog:   [1/3] UE4Editor-BullCowGame-2907.lib
+[2020.11.13-16.30.56:311][425]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2907.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2907.exp
+[2020.11.13-16.30.56:311][425]CompilerResultsLog:   [2/3] UE4Editor-BullCowGame-2907.dll
+[2020.11.13-16.30.56:312][425]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2907.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2907.suppressed.exp
+[2020.11.13-16.30.56:312][425]CompilerResultsLog:   [3/3] BullCowGameEditor.target
+[2020.11.13-16.30.56:312][425]CompilerResultsLog: Total time in Parallel executor: 0,86 seconds
+[2020.11.13-16.30.56:312][425]CompilerResultsLog: Total execution time: 7,75 seconds
+[2020.11.13-16.30.56:312][425]LogMainFrame: MainFrame: Module compiling took 7.852 seconds
+[2020.11.13-16.30.56:347][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.13-16.30.56:356][425]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.30.56:359][425]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.30.56:424][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.11.13-16.30.56:437][425]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.30.56:437][425]Display: HotReload took  8.0s.
+[2020.11.13-16.34.37:994][610]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.34.37:994][610]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-16.34.40:410][823]LogSlate: Window 'Message Log' being destroyed
+[2020.11.13-16.34.57:986][659]Candidate modules for hot reload:
+[2020.11.13-16.34.57:986][659]  BullCowGame
+[2020.11.13-16.34.57:986][659]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,5370 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.34.57:989][659]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:35:00
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-5370.lib
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-5370.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-5370.exp
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-5370.dll
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-5370.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-5370.suppressed.exp
+[2020.11.13-16.35.00:474][872]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Total time in Parallel executor: 1,38 seconds
+[2020.11.13-16.35.00:474][872]CompilerResultsLog: Total execution time: 2,38 seconds
+[2020.11.13-16.35.00:474][872]LogMainFrame: MainFrame: Module compiling took 2.494 seconds
+[2020.11.13-16.35.00:510][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.13-16.35.00:525][872]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.35.00:529][872]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.35.00:596][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.13-16.35.00:609][872]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.35.00:609][872]Display: HotReload took  2.6s.
+[2020.11.13-16.35.01:746][985]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-16.35.01:754][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.35.01:754][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-16.35.01:754][985]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 20:35:01)
+[2020.11.13-16.35.01:754][985]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.35.01:886][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132233s)
+[2020.11.13-16.35.01:887][985]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-16.35.01:887][985]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2020.11.13-16.35.01:887][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.133176s)
+[2020.11.13-16.35.01:921][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.13-16.35.01:921][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-16.35.01:921][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-16.35.01:921][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-16.35.01:921][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-16.35.01:921][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-16.35.01:922][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-16.35.01:922][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-16.35.01:922][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-16.35.01:922][985]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-16.35.01:922][985]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: Channel Order:
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-16.35.01:949][985]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-16.35.01:960][985]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.35.01:961][985]LogInit: FAudioDevice initialized.
+[2020.11.13-16.35.01:966][985]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-16.35.01:969][985]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-18.35.01
+[2020.11.13-16.35.01:969][985]LogWorld: Bringing up level for play took: 0.002539
+[2020.11.13-16.35.01:969][985]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.11.13-16.35.01:971][985]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,947
+[2020.11.13-16.35.01:971][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.35.11:760][123]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.35.11:760][123]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.35.11:760][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.35.11:760][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.35.11:760][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.35.11:760][123]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.35.11:760][123]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-16.35.11:761][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.35.11:768][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-16.35.11:768][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.35.11:771][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-16.35.11:806][123]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-16.35.11:808][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-16.35.11:812][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.11.13-16.35.11:871][125]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.11.13-16.39.13:436][999]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.11.13-16.52.30:031][591]Candidate modules for hot reload:
+[2020.11.13-16.52.30:031][591]  BullCowGame
+[2020.11.13-16.52.30:031][591]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,2107 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-16.52.30:033][591]Warning: Starting HotReload took  0.0s.
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 20:52:32
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: [Upgrade]
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-2107.lib
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2107.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2107.exp
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-2107.dll
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2107.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-2107.suppressed.exp
+[2020.11.13-16.52.32:467][785]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Total time in Parallel executor: 1,46 seconds
+[2020.11.13-16.52.32:467][785]CompilerResultsLog: Total execution time: 2,34 seconds
+[2020.11.13-16.52.32:467][785]LogMainFrame: MainFrame: Module compiling took 2.443 seconds
+[2020.11.13-16.52.32:498][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.13-16.52.32:507][785]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-16.52.32:509][785]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-16.52.32:576][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.11.13-16.52.32:591][785]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-16.52.32:591][785]Display: HotReload took  2.6s.
+[2020.11.13-16.52.34:192][932]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-16.52.34:199][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-16.52.34:199][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-16.52.34:199][932]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 20:52:34)
+[2020.11.13-16.52.34:199][932]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-16.52.34:323][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124130s)
+[2020.11.13-16.52.34:324][932]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-16.52.34:324][932]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2020.11.13-16.52.34:324][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.125115s)
+[2020.11.13-16.52.34:359][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-16.52.34:360][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-16.52.34:360][932]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-16.52.34:360][932]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: Channel Order:
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-16.52.34:388][932]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-16.52.34:398][932]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-16.52.34:399][932]LogInit: FAudioDevice initialized.
+[2020.11.13-16.52.34:405][932]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-16.52.34:408][932]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-18.52.34
+[2020.11.13-16.52.34:408][932]LogWorld: Bringing up level for play took: 0.002492
+[2020.11.13-16.52.34:408][932]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.11.13-16.52.34:410][932]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,614
+[2020.11.13-16.52.34:410][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.06.07:407][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.06.07:407][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.06.07:408][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.06.07:408][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.06.07:408][206]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.06.07:408][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.06.07:408][206]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-17.06.07:408][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.06.07:419][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-17.06.07:419][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.06.07:422][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.06.07:458][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.06.07:461][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.06.07:464][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.11.13-17.06.07:510][209]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.11.13-17.06.08:461][299]Candidate modules for hot reload:
+[2020.11.13-17.06.08:461][299]  BullCowGame
+[2020.11.13-17.06.08:461][299]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,8334 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-17.06.08:464][299]Warning: Starting HotReload took  0.0s.
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 21:06:20
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Parsing headers for BullCowGameEditor
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   Running UnrealHeaderTool "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\BullCowGame.uproject" "D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\BullCowGameEditor\Development\BullCowGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Reflection code generated for BullCowGameEditor in 6,8269467 seconds
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade]
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: [Upgrade]
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   [1/5] BullCowCartridge.cpp
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   [2/5] BullCowCartridge.gen.cpp
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   [3/5] UE4Editor-BullCowGame-8334.lib
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-8334.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-8334.exp
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   [4/5] UE4Editor-BullCowGame-8334.dll
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-8334.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-8334.suppressed.exp
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog:   [5/5] BullCowGameEditor.target
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Total time in Parallel executor: 3,85 seconds
+[2020.11.13-17.06.20:140][ 76]CompilerResultsLog: Total execution time: 11,58 seconds
+[2020.11.13-17.06.20:140][ 76]LogMainFrame: MainFrame: Module compiling took 11.687 seconds
+[2020.11.13-17.06.20:174][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.13-17.06.20:177][ 76]LogClass: Could not find existing class BullCowCartridge in package /Script/BullCowGame for HotReload, assuming new class
+[2020.11.13-17.06.20:184][ 76]LogHotReload: Re-instancing BullCowCartridge after hot-reload.
+[2020.11.13-17.06.20:291][ 76]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2020.11.13-17.06.20:294][ 76]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-17.06.20:358][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.11.13-17.06.20:371][ 76]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-17.06.20:371][ 76]Display: HotReload took 11.9s.
+[2020.11.13-17.09.30:732][ 33]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-17.09.30:733][ 33]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-17.09.32:840][255]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-17.09.32:846][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.09.32:847][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-17.09.32:847][255]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 21:09:32)
+[2020.11.13-17.09.32:847][255]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.09.32:973][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124996s)
+[2020.11.13-17.09.32:973][255]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-17.09.32:974][255]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.11.13-17.09.32:974][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.125999s)
+[2020.11.13-17.09.33:010][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-17.09.33:010][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-17.09.33:010][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-17.09.33:011][255]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-17.09.33:011][255]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: Channel Order:
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-17.09.33:039][255]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-17.09.33:050][255]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.09.33:052][255]LogInit: FAudioDevice initialized.
+[2020.11.13-17.09.33:062][255]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-17.09.33:065][255]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-19.09.33
+[2020.11.13-17.09.33:065][255]LogWorld: Bringing up level for play took: 0.002615
+[2020.11.13-17.09.33:065][255]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.11.13-17.09.33:067][255]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0,043
+[2020.11.13-17.09.33:067][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.09.53:912][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.09.53:913][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.09.53:913][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.09.53:913][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.09.53:913][744]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.09.53:913][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.09.53:913][744]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-17.09.53:913][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.09.53:920][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-17.09.53:920][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.09.53:923][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.09.53:956][744]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.09.53:958][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.09.53:961][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.13-17.09.54:012][746]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.11.13-17.10.52:921][983]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-17.10.52:921][983]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.13-17.10.53:825][ 62]Candidate modules for hot reload:
+[2020.11.13-17.10.53:826][ 62]  BullCowGame
+[2020.11.13-17.10.53:826][ 62]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BullCowGame,3382 Win64 Development -TargetType=Editor -Project="D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject" "D:/Learning/UnrealEngine/projects/BullCowGame-starter-kit/BullCowGame.uproject"  -IgnoreJunk]
+[2020.11.13-17.10.53:828][ 62]Warning: Starting HotReload took  0.0s.
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: New page: Compilation - 13 нояб. 2020 г., 21:10:56
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit).
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Building BullCowGameEditor...
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade]
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in BullCowGameEditor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: [Upgrade]
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:   [1/4] BullCowCartridge.cpp
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:   [2/4] UE4Editor-BullCowGame-3382.lib
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3382.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3382.exp
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:   [3/4] UE4Editor-BullCowGame-3382.dll
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:      ????????? ?????????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3382.suppressed.lib ? ?????? D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\UE4Editor-BullCowGame-3382.suppressed.exp
+[2020.11.13-17.10.56:212][264]CompilerResultsLog:   [4/4] BullCowGameEditor.target
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Total time in Parallel executor: 1,45 seconds
+[2020.11.13-17.10.56:212][264]CompilerResultsLog: Total execution time: 2,29 seconds
+[2020.11.13-17.10.56:212][264]LogMainFrame: MainFrame: Module compiling took 2.393 seconds
+[2020.11.13-17.10.56:248][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.13-17.10.56:262][264]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0004 seconds. Added 4 classes and 3 folders.
+[2020.11.13-17.10.56:267][264]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-17.10.56:334][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.13-17.10.56:349][264]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-17.10.56:349][264]Display: HotReload took  2.5s.
+[2020.11.13-17.11.00:760][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-17.11.00:767][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.11.00:767][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-17.11.00:767][676]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 21:11:00)
+[2020.11.13-17.11.00:767][676]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.11.00:905][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137810s)
+[2020.11.13-17.11.00:905][676]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-17.11.00:906][676]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2020.11.13-17.11.00:906][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.138772s)
+[2020.11.13-17.11.00:941][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-17.11.00:941][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-17.11.00:941][676]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-17.11.00:941][676]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: Channel Order:
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-17.11.00:971][676]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-17.11.00:982][676]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.11.00:983][676]LogInit: FAudioDevice initialized.
+[2020.11.13-17.11.00:988][676]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-17.11.00:990][676]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-19.11.00
+[2020.11.13-17.11.00:991][676]LogWorld: Bringing up level for play took: 0.002525
+[2020.11.13-17.11.00:991][676]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.11.13-17.11.00:993][676]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0,031
+[2020.11.13-17.11.00:993][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.11.16:068][436]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.11.16:073][436]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.11.13-17.11.16:093][436]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.11.13-17.11.16:093][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.11.16:093][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.11.16:093][436]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.11.16:093][436]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.11.16:093][436]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-17.11.16:094][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.11.16:099][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-17.11.16:099][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.11.16:102][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.11.16:137][436]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.11.16:140][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.11.16:143][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.11.13-17.11.16:193][438]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.11.13-17.12.35:468][747]LogHotReload: New module detected: UE4Editor-BullCowGame-0012.dll
+[2020.11.13-17.12.36:168][750]LogHotReload: Starting Hot-Reload from IDE
+[2020.11.13-17.12.36:221][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.13-17.12.36:230][750]LogContentBrowser: Native class hierarchy updated for 'BullCowGame' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2020.11.13-17.12.36:233][750]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.11.13-17.12.36:298][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.11.13-17.12.36:312][750]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3021 classes and 723 folders.
+[2020.11.13-17.12.36:318][750]Display: HotReload took  0.2s.
+[2020.11.13-17.12.47:936][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.13-17.12.47:942][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.12.47:942][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.13-17.12.47:942][ 67]PIE: New page: PIE session: Level1 (13 нояб. 2020 г., 21:12:47)
+[2020.11.13-17.12.47:942][ 67]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.12.48:067][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124604s)
+[2020.11.13-17.12.48:068][ 67]LogAIModule: Creating AISystem for world Level1
+[2020.11.13-17.12.48:068][ 67]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.11.13-17.12.48:068][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.125514s)
+[2020.11.13-17.12.48:104][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.13-17.12.48:104][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.13-17.12.48:104][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.13-17.12.48:104][ 67]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.13-17.12.48:105][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Name: Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Is Default: Yes
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: Channel Order:
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.13-17.12.48:136][ 67]LogAudioMixer: Display: 1: FrontRight
+[2020.11.13-17.12.48:146][ 67]LogAudioMixer: Display: Using Audio Device Наушники гарнитуры (HyperX Virtual Surround Sound)
+[2020.11.13-17.12.48:148][ 67]LogInit: FAudioDevice initialized.
+[2020.11.13-17.12.48:154][ 67]LogLoad: Game class is 'GameModeBase'
+[2020.11.13-17.12.48:157][ 67]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.13-19.12.48
+[2020.11.13-17.12.48:157][ 67]LogWorld: Bringing up level for play took: 0.003198
+[2020.11.13-17.12.48:157][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.11.13-17.12.48:159][ 67]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 1,136
+[2020.11.13-17.12.48:160][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.13.04:327][997]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.13.04:327][997]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.13.04:327][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.13.04:327][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.13.04:327][997]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2020.11.13-17.13.04:327][997]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.13.04:327][997]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-17.13.04:328][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.13.04:335][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.13-17.13.04:335][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.11.13-17.13.04:338][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-17.13.04:370][997]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.13-17.13.04:373][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.13-17.13.04:376][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.11.13-17.13.04:428][999]LogPlayLevel: Display: Destroying online subsystem :Context_9

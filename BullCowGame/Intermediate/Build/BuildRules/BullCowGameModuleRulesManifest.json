@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Learning\\UnrealEngine\\projects\\BullCowGame-starter-kit\\Source\\BullCowGame\\BullCowGame.Build.cs",
+		"D:\\Learning\\UnrealEngine\\projects\\BullCowGame-starter-kit\\Source\\BullCowGame.Target.cs",
+		"D:\\Learning\\UnrealEngine\\projects\\BullCowGame-starter-kit\\Source\\BullCowGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
