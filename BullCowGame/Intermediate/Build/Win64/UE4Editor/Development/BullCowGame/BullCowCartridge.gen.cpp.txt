@@ -1,8 +1,0 @@
-D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Source\BullCowGame/BullCowCartridge.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE\utility
-D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Source\BullCowGame\Console/Cartridge.h
-D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h
-D:\Learning\UnrealEngine\projects\BullCowGame-starter-kit\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\BullCowCartridge.generated.h
