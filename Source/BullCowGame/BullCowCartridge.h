@@ -2,10 +2,10 @@
 
 #pragma once
 
+#include <utility>
 #include "CoreMinimal.h"
 #include "Console/Cartridge.h"
 #include "BullCowCartridge.generated.h"
-
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class BULLCOWGAME_API UBullCowCartridge : public UCartridge
@@ -16,6 +16,7 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	virtual void BeginPlay() override;
 	virtual void OnInput(const FString& Input) override;
 	void InitGame();
+	std::pair<int32, int32> GetBullCows(const FString& Guess) const;
 
 	// Your declarations go below!
 	private:
