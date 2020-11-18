@@ -10,8 +10,8 @@ UOpenDoor::UOpenDoor()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
-
-	// ...
+	InterpSpeed = 2.f;
+	RotateAngle = 90.f;
 }
 
 
@@ -19,7 +19,7 @@ UOpenDoor::UOpenDoor()
 void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
-	TargetYaw = GetOwner()->GetActorRotation().Yaw + 90.f;
+	TargetYaw = GetOwner()->GetActorRotation().Yaw + RotateAngle;	
 }
 
 
@@ -31,16 +31,11 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	UE_LOG(LogTemp, Warning, TEXT("%s"), *GetOwner()->GetActorRotation().ToString());
 	UE_LOG(LogTemp, Warning, TEXT("Yaw is %f"), GetOwner()->GetActorRotation().Yaw);
 
-	FRotator CurrRotation = GetOwner()->GetActorRotation();
-	float InterpSpeed = 2.f;
-
+	FRotator CurrRotation = GetOwner()->GetActorRotation();	
+	CurrRotation.Yaw = FMath::FInterpTo(CurrRotation.Yaw, TargetYaw, DeltaTime, InterpSpeed);	
+	GetOwner()->SetActorRotation(CurrRotation);
+		
 	// This method is depends on your computer speed (better pc => faster the door opens)
 	// CurrRotation.Yaw = FMath::Lerp(CurrRotation.Yaw, TargetYaw, PrecentageIncrease);
-
-	CurrRotation.Yaw = FMath::FInterpTo(CurrRotation.Yaw, TargetYaw, DeltaTime, InterpSpeed);
-	
-
-	GetOwner()->SetActorRotation(CurrRotation);
-	// ...
 }
 
