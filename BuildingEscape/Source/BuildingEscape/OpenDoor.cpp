@@ -19,11 +19,7 @@ UOpenDoor::UOpenDoor()
 void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
-
-	float RotationAngle = 90.f;
-	FRotator CurrRotation = GetOwner()->GetActorRotation();
-	CurrRotation.Yaw += RotationAngle;
-	GetOwner()->SetActorRotation(CurrRotation);
+	TargetYaw = GetOwner()->GetActorRotation().Yaw + 90.f;
 }
 
 
@@ -32,6 +28,19 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+	UE_LOG(LogTemp, Warning, TEXT("%s"), *GetOwner()->GetActorRotation().ToString());
+	UE_LOG(LogTemp, Warning, TEXT("Yaw is %f"), GetOwner()->GetActorRotation().Yaw);
+
+	FRotator CurrRotation = GetOwner()->GetActorRotation();
+	float InterpSpeed = 2.f;
+
+	// This method is depends on your computer speed (better pc => faster the door opens)
+	// CurrRotation.Yaw = FMath::Lerp(CurrRotation.Yaw, TargetYaw, PrecentageIncrease);
+
+	CurrRotation.Yaw = FMath::FInterpTo(CurrRotation.Yaw, TargetYaw, DeltaTime, InterpSpeed);
+	
+
+	GetOwner()->SetActorRotation(CurrRotation);
 	// ...
 }
 
